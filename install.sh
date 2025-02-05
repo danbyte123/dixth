@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BINARY_URL="https://github.com/danbyte123/dixth.git"
+BINARY_URL="https://github.com/danbyte123/dixth/releases/latest/download/ditxh"
 INSTALL_DIR="/usr/local/bin"
 BINARY_NAME="ditxh"
 
@@ -11,7 +11,7 @@ install_ditxh() {
     fi
 
     echo "Downloading ditxh..."
-    curl -L "$BINARY_URL" -o "$INSTALL_DIR/$BINARY_NAME"
+    wget -O "$INSTALL_DIR/$BINARY_NAME" "$BINARY_URL"
 
     chmod +x "$INSTALL_DIR/$BINARY_NAME"
 
