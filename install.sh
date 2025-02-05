@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BINARY_URL="https://github.com/danbyte123/dixth/releases/download/ditxh/ditxh-linux.tar.gz"
+BINARY_URL="https://github.com/danbyte123/dixth/releases/download/ditxh/tool"
 INSTALL_DIR="/usr/local/bin"
 BINARY_NAME="ditxh"
 
