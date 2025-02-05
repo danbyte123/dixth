@@ -5,7 +5,7 @@
 ## Features
 
 - Displays system information such as OS, kernel, CPU, memory, disk usage, and uptime.
-- Includes customizable ASCII art for various operating systems (e.g., Ubuntu, Arch, Fedora, Windows, macOS).
+- Includes customizable ASCII art for various operating systems (e.g., Ubuntu, Arch, Fedora).
 - Randomized ASCII art colors for a fresh look every time you run the tool.
 - Lightweight and fast—designed for Linux, but compatible with other systems like Windows and macOS.
 
@@ -21,3 +21,8 @@
    2.Run
    ```bash
    ditxh
+   ```
+   3.uninstall
+   ```bash
+   curl -sSL https://raw.githubusercontent.com/danbyte123/dixth/main/install.sh | sudo bash -s uninstall
+   ```
