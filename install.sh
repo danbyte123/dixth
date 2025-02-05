@@ -11,7 +11,7 @@ install_ditxh() {
     fi
 
     echo "Downloading ditxh..."
-    wget -O "$INSTALL_DIR/$BINARY_NAME" "$BINARY_URL"
+    curl -L "$BINARY_URL" -o "$INSTALL_DIR/$BINARY_NAME"
 
     chmod +x "$INSTALL_DIR/$BINARY_NAME"
 
