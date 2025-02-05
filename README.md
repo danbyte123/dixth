@@ -36,7 +36,7 @@
    Run the following command to download and install `ditxh`:
 
    ```bash
-   curl -sSL https://raw.githubusercontent.com/danbyte123/dixth/main/install.sh | sudo bash
+    curl -sSL https://raw.githubusercontent.com/danbyte123/dixth/main/install.sh | sudo bash
    ```
    2.Run
    ```bash
@@ -44,5 +44,5 @@
    ```
    3.uninstall
    ```bash
-   curl -sSL https://raw.githubusercontent.com/danbyte123/dixth/main/install.sh | sudo bash -s uninstall
+    curl -sSL https://raw.githubusercontent.com/danbyte123/dixth/main/install.sh | sudo bash -s uninstall
    ```
