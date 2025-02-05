@@ -21,7 +21,7 @@ install_ditxh() {
     # Verify installation
     if [ -f "$INSTALL_DIR/$BINARY_NAME" ]; then
         echo "ditxh installed successfully!"
-        echo "You can now run 'ditxh' from anywhere."
+         
     else
         echo "Installation failed. Please try again."
         exit 1
