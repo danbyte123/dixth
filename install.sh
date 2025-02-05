@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the URL of the binary
-BINARY_URL="https://github.com/yourusername/your-repo-name/releases/latest/download/ditxh"
+BINARY_URL="https://github.com/danbyte123/dixth.git"
 
 # Define the installation directory
 INSTALL_DIR="/usr/local/bin"
