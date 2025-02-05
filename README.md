@@ -1,6 +1,6 @@
-# ditxh - A Neofetch-Like System Information Tool
+# ditxh - A Neofetch/nitch-Like System Information Tool
 
-`ditxh` is a lightweight, terminal-based tool inspired . It displays system information alongside beautiful ASCII art, making it easy to showcase your system's details in style.
+`ditxh` is a fast, terminal-based tool (becuse it's written in python lmfao) . It displays system information alongside beautiful ASCII art, making it easy to showcase your system's details in style.
 
 ## Features
 
